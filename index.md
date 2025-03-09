@@ -5,3 +5,7 @@
 ```javascript
 var myVar = "code example";
 ```
+# My List
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
